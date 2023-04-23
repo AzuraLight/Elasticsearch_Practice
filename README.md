@@ -1,5 +1,4 @@
-# Elasticsearch_Practice
-ELK 실습 과정으로 해보았던 CSV 자료를 활용하여 시각화 실습
+# ELK 실습 과정으로 해보았던 CSV 자료를 활용하여 시각화 실습
 ------
 ![엘라스틱서치 csv - 시각화 실습](https://user-images.githubusercontent.com/113497486/233835845-16d13123-c001-45b8-ac51-e866fa11e0a0.png)
 
